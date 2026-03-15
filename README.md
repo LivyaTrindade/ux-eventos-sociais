@@ -1,4 +1,4 @@
-Este projeto consiste na criação de um wireframe para uma nova funcionalidade de organização de eventos sociais dentro de um aplicativo já existente (como WhatsApp, Instagram ou Google Agenda).
+Este projeto consiste na criação de um wireframe para uma nova funcionalidade de organização de eventos sociais dentro de um aplicativo já existente (Instagram).
 
 Objetivo:
 Permitir que usuários criem eventos, convidem pessoas e acompanhem confirmações de presença diretamente dentro da plataforma.
@@ -12,7 +12,7 @@ Universitário desorganizado, sobrecarregado e com pouco tempo disponível para 
 Tarefa principal:
 - Criar um evento
 - Convidar pessoas
-- Acompanhar confirmações de presença (RSVP)
+- Acompanhar confirmações de presença
 
 Desafio de UX:
 Projetar uma interface simples, rápida e intuitiva que reduza fricção na navegação e mantenha coerência com a navegação existente do aplicativo.
