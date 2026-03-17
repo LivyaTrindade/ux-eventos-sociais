@@ -22,3 +22,5 @@ https://www.figma.com/proto/VJHgi7dmouucpaQAmM7T5U/Prot%C3%B3tipo-Instagram?node
 
 Projeto completo (Figma):
 https://www.figma.com/design/VJHgi7dmouucpaQAmM7T5U/Prot%C3%B3tipo-Instagram?node-id=0-1&m=dev&t=YdnCjCVniyAbe9Nj-1
+
+Alunos: Livya Carneiro, Fernanda Anacleto e Vinicius.
